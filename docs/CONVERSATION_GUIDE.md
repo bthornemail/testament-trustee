@@ -378,6 +378,208 @@ YOU: "That's what this space is for."
 - Emotional moments are often breakthroughs
 - "Take your time"
 
+## Rhetorical Modes & The Four Characters
+
+The four philosophical voices employ different combinations of classical rhetorical appeals (logos, ethos, pathos, kairos). Understanding this helps you choose the right character for the right moment.
+
+### The Rhetorical Framework
+
+**Logos** (Logic/Reason)
+- Appeals to rationality, facts, systematic thinking
+- "Can you reason through this?"
+
+**Ethos** (Credibility/Authority)
+- Appeals to moral character, trustworthiness, authority
+- "On what authority do you claim this?"
+
+**Pathos** (Emotion/Experience)
+- Appeals to feeling, shared experience, emotional connection
+- "What did you feel?"
+
+**Kairos** (Timing/Context)
+- Appeals to the opportune moment, situational appropriateness
+- "Does this fit your life right now?"
+
+### Character Profiles
+
+#### Solomon - Ethos + Logos
+**Primary mode:** Authority/Credibility
+**Secondary mode:** Reason/Wisdom
+
+**Asks:**
+- "On what authority do you claim this?"
+- "Can you reason through this belief?"
+- "What evidence supports this?"
+
+**Best for:**
+- Academic/skeptical participants
+- Establishing foundations
+- Testing certainty
+
+**Matrix focus:** Known Knowns
+```
+"Solomon would ask: If you're certain of this, can you defend it
+publicly? What's your reasoning?"
+```
+
+#### Solon - Logos + Kairos
+**Primary mode:** Reason/Structure
+**Secondary mode:** Timing/Context
+
+**Asks:**
+- "Does this belief make logical sense?"
+- "Does it fit the context of your life right now?"
+- "Is this the right question for this moment?"
+
+**Best for:**
+- Rule-bound/legalistic participants
+- Exploring consistency
+- Contextual understanding
+
+**Matrix focus:** Known Knowns + Known Unknowns
+```
+"Solon would ask: Your belief says X, but you act like Y.
+How do these coexist in your current life?"
+```
+
+#### Ibn Khaldun - Pathos + Logos
+**Primary mode:** Social Emotion/Connection
+**Secondary mode:** Analytical Observation
+
+**Asks:**
+- "Is this belief personal or shared?"
+- "Do you believe it because you feel it, or because your community does?"
+- "Where does this understanding come from?"
+
+**Best for:**
+- Community-oriented participants
+- Exploring social influences
+- Unknown Knowns (collective intuitions)
+
+**Matrix focus:** Unknown Knowns + Known Knowns
+```
+"Ibn Khaldun would ask: You say you 'just know' this. Does your
+family/church/community 'just know' it too? Or is this uniquely yours?"
+```
+
+#### Enoch/Metatron - Pathos + Kairos
+**Primary mode:** Mystical Experience
+**Secondary mode:** Transformative Moment
+
+**Asks:**
+- "What have you experienced that words can't capture?"
+- "When did God break into your timeline?"
+- "What moment transcended explanation?"
+
+**Best for:**
+- Mystical/experiential participants
+- Exploring ineffability
+- Unknown Unknowns
+
+**Matrix focus:** Unknown Knowns + Unknown Unknowns
+```
+"Enoch would ask: Forget theology for a moment. Have you ever had
+a moment where everything you thought you knew dissolved? Tell me
+about that moment."
+```
+
+### Choosing Your Rhetorical Approach
+
+**If participant is stuck in one mode:**
+
+Stuck in **logos** (too rational):
+> "Let me ask with Enoch's voice - have you had a moment where
+> logic failed? Where you just experienced something?"
+> [Shift to Pathos + Kairos]
+
+Stuck in **pathos** (too emotional):
+> "Let me ask with Solon's voice - does that feeling follow
+> logically from your beliefs? Does it fit your context?"
+> [Shift to Logos + Kairos]
+
+Stuck in **ethos** (too authority-dependent):
+> "Let me ask with Ibn Khaldun's voice - is this your authority
+> or your community's? What do YOU know apart from what you've
+> been told?"
+> [Shift to Pathos + Logos]
+
+**If conversation needs:**
+
+More **grounding** → Solomon's authority + reason
+More **context** → Solon's timing + logic
+More **connection** → Ibn's social bonds + analysis
+More **mystery** → Enoch's experience + moments
+
+### Practical Application
+
+**Example: Moving between characters**
+
+```
+PARTICIPANT: "I believe in God because the Bible says so."
+
+YOU (as Solomon): "That's ethos - you're appealing to biblical
+authority. But can we think through the logos? What in the Bible
+makes you believe, specifically?"
+
+PARTICIPANT: "Well, the stories of Jesus healing people."
+
+YOU (as Solon): "Do those stories fit the context of your life?
+Have you seen healing that makes the stories feel true?"
+
+PARTICIPANT: "My grandmother was sick, and we prayed, and she
+got better."
+
+YOU (as Ibn Khaldun): "Did your family pray together? Was this
+a shared experience, or did you pray alone?"
+
+PARTICIPANT: "We all prayed together. I remember feeling...
+connected. Not just to them, but to something bigger."
+
+YOU (as Enoch): "That feeling - the connection to something
+bigger - can you put it into words? Or is it one of those moments
+that transcends language?"
+
+PARTICIPANT: "I... no, I can't explain it. I just knew."
+
+YOU: "That's an Unknown Known. Let's put it in that quadrant."
+```
+
+### Mapping to the Matrix
+
+```
+┌─────────────────────────────────┬─────────────────────────────────┐
+│ KNOWN KNOWNS                    │ KNOWN UNKNOWNS                  │
+│                                 │                                 │
+│ Solomon (Ethos + Logos)         │ Solon (Logos + Kairos)         │
+│ "Defend this publicly"          │ "What questions fit now?"       │
+│                                 │                                 │
+│ Ibn Khaldun (Pathos + Logos)    │                                 │
+│ "Personal or communal?"         │                                 │
+├─────────────────────────────────┼─────────────────────────────────┤
+│ UNKNOWN KNOWNS                  │ UNKNOWN UNKNOWNS                │
+│                                 │                                 │
+│ Ibn Khaldun (Pathos + Logos)    │ Enoch (Pathos + Kairos)        │
+│ "What does your group feel?"    │ "What moment transcended?"      │
+│                                 │                                 │
+│ Enoch (Pathos + Kairos)         │                                 │
+│ "What did you experience?"      │                                 │
+└─────────────────────────────────┴─────────────────────────────────┘
+```
+
+### Teaching the Framework
+
+You can explicitly teach participants about the rhetorical modes:
+
+```
+YOU: "I'm going to shift between four different ways of asking.
+Sometimes I'll ask like Solomon - testing your reasoning. Sometimes
+like Solon - checking context. Sometimes like Ibn Khaldun - exploring
+where beliefs come from. And sometimes like Enoch - honoring mystery.
+Notice which questions feel most comfortable and which feel hardest."
+```
+
+This meta-awareness helps participants understand their own epistemic preferences.
+
 ## Common Challenges
 
 ### "I don't believe in God"
